@@ -1,0 +1,20 @@
+.navbar > .container{
+    justify-content: center;
+}
+
+.navbar > .container .logo{
+    width: 50px;
+}
+
+.estilo{
+    background-color: #212529; 
+    border: 1px solid rgba(0, 0, 0, 0.589); 
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.589);  
+    width: 100%;
+    max-width: 600px;
+    padding: 20px 30px 20px 45px;
+    box-sizing: border-box; 
+    display: block; 
+    margin: auto; 
+    margin-top: 40px;
+}
